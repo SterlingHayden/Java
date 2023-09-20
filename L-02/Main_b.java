@@ -7,7 +7,7 @@ Code, Compile, Run and Debug online from anywhere in world.
 
 *******************************************************************************/
 import java.util.Scanner;
-public class Main
+public class Main_b
 {
   public static void main (String[]args)
   {
